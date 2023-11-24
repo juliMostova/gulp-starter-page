@@ -1,0 +1,25 @@
+.header {
+	background-color: rgb(195, 220, 231);
+	 padding: 10px 0;
+
+	&__row {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+	}
+ 
+.small{
+	font-size: 10px;
+	
+}
+	.darkTeme{
+		position: relative;
+		right: -10px;
+		top:-30px;
+		width: 40px;
+		height: 40px;
+		cursor: pointer;
+	}
+	
+
+}
